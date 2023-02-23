@@ -1,6 +1,5 @@
-chatgpt-bot-telegram
-How to Install:
-npm i
-nano .env (ADD TELEGRAM API AND OPENAI API)
+# chatgpt-bot-telegram
+How to Install: <BR>
+npm i <BR>
+nano .env (ADD TELEGRAM API AND OPENAI API) <BR>
 node index.js
-please join to our telegram group(https://t.me/+rmaJZsa91u42NzZl)
